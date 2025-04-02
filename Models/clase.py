@@ -1,4 +1,4 @@
-class Materia():
+class Materia:
     def __init__(self, nombre, codigo, creditos):
         self.nombre = nombre
         self.codigo = codigo

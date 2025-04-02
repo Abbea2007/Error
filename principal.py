@@ -6,6 +6,3 @@ materia = c.Materia("Calculo", "MAT101", 4)
 dao = dao.MateriaDao()
 dao.agregar_materia(materia)
 dao.obtener_materias()
-
-
-    
